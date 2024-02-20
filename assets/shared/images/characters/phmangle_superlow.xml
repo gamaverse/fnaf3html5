@@ -1,0 +1,106 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="phmangle.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="127.75" height="151.25" frameX="-19.25" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="128" y="0" width="138" height="146.5" frameX="-9" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="266.25" y="0" width="145" height="150" frameX="-2" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="411.5" y="0" width="147" height="149.5" frameX="0" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="558.75" y="0" width="146.75" height="148.5" frameX="-0.25" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0005" x="705.75" y="0" width="146" height="146.75" frameX="-1" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0006" x="852" y="0" width="144.5" height="144.75" frameX="-2.5" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0007" x="996.75" y="0" width="141" height="142.25" frameX="-6" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0008" x="1138" y="0" width="134.75" height="141.5" frameX="-12.25" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0009" x="1273" y="0" width="127.25" height="148.75" frameX="-19.75" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0010" x="0" y="151.5" width="120.25" height="152" frameX="-26.75" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note DOWN0011" x="120.5" y="151.5" width="114" height="151" frameX="-33" frameY="0" frameWidth="147" frameHeight="152"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="234.75" y="151.5" width="141" height="148" frameX="-16.75" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="376" y="151.5" width="156.5" height="142.75" frameX="-1.25" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="532.75" y="151.5" width="157.75" height="140.25" frameX="0" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="690.75" y="151.5" width="156.75" height="140.75" frameX="-1" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="847.75" y="151.5" width="155" height="141.75" frameX="-2.75" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0005" x="1003" y="151.5" width="152.25" height="143" frameX="-5.5" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0006" x="1155.5" y="151.5" width="148.25" height="144.75" frameX="-9.5" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0007" x="1304" y="151.5" width="143.25" height="146.25" frameX="-14.5" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0008" x="0" y="303.75" width="137.5" height="147.75" frameX="-20.25" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0009" x="137.75" y="303.75" width="131" height="149.25" frameX="-26.75" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0010" x="269" y="303.75" width="124.75" height="150.25" frameX="-33" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note LEFT0011" x="394" y="303.75" width="119" height="150.75" frameX="-38.75" frameY="0" frameWidth="157.75" frameHeight="150.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="513.25" y="303.75" width="108.5" height="152.75" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="622" y="303.75" width="108.5" height="150.5" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="730.75" y="303.75" width="109.25" height="146.75" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="840.25" y="303.75" width="110" height="142" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="950.5" y="303.75" width="110.25" height="138.25" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0005" x="1061" y="303.75" width="109.5" height="137.25" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0006" x="1170.75" y="303.75" width="108.5" height="138.25" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0007" x="1279.5" y="303.75" width="108.5" height="140.25" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0008" x="1388.25" y="303.75" width="108.5" height="142.75" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0009" x="0" y="456.75" width="108.5" height="147" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note RIGHT0010" x="108.75" y="456.75" width="108.5" height="150.75" frameX="0" frameY="0" frameWidth="110.25" frameHeight="152.75"/>
+	<SubTexture name="Dad Sing Note UP0000" x="217.5" y="456.75" width="126" height="139" frameX="-18.25" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0001" x="343.75" y="456.75" width="137.25" height="123" frameX="-7" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0002" x="481.25" y="456.75" width="143" height="113.25" frameX="-1.25" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0003" x="624.5" y="456.75" width="144.25" height="111" frameX="0" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0004" x="769" y="456.75" width="143.5" height="110.75" frameX="-0.75" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0005" x="912.75" y="456.75" width="142.75" height="112.5" frameX="-1.5" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0006" x="1055.75" y="456.75" width="141.75" height="115.75" frameX="-2.5" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0007" x="1197.75" y="456.75" width="140.5" height="120" frameX="-3.75" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0008" x="1338.5" y="456.75" width="137.5" height="125" frameX="-6.75" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0009" x="0" y="607.75" width="131.5" height="132" frameX="-12.75" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0010" x="131.75" y="607.75" width="123" height="142.75" frameX="-21.25" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad Sing Note UP0011" x="255" y="607.75" width="114" height="151" frameX="-30.25" frameY="0" frameWidth="144.25" frameHeight="151"/>
+	<SubTexture name="Dad idle dance0000" x="369.25" y="607.75" width="142" height="142.75" frameX="-6.75" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0001" x="511.5" y="607.75" width="148.75" height="155" frameX="0" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0002" x="660.5" y="607.75" width="147.5" height="155.75" frameX="-1.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0003" x="808.25" y="607.75" width="145.25" height="154.75" frameX="-3.5" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0004" x="953.75" y="607.75" width="143.5" height="150.75" frameX="-5.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0005" x="1097.5" y="607.75" width="142.5" height="144.25" frameX="-6.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0006" x="1240.25" y="607.75" width="140.5" height="137.75" frameX="-8.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0007" x="0" y="763.75" width="135.25" height="137.25" frameX="-13.5" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0008" x="135.5" y="763.75" width="126.5" height="143.25" frameX="-22.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0009" x="262.25" y="763.75" width="117.75" height="147.75" frameX="-31" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0010" x="380.25" y="763.75" width="114.5" height="150" frameX="-34.25" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="Dad idle dance0011" x="495" y="763.75" width="114" height="151" frameX="-34.75" frameY="0" frameWidth="148.75" frameHeight="155.75"/>
+	<SubTexture name="attack0000" x="609.25" y="763.75" width="115.75" height="155.25" frameX="-38" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0001" x="725.25" y="763.75" width="109.5" height="155.75" frameX="-44.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0002" x="835" y="763.75" width="108.5" height="169.5" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0003" x="943.75" y="763.75" width="107" height="166.25" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0004" x="1051" y="763.75" width="105.75" height="168.75" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0005" x="1157" y="763.75" width="104.75" height="171.25" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0006" x="1262" y="763.75" width="104.25" height="163" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0007" x="1366.5" y="763.75" width="104.25" height="151.75" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0008" x="0" y="935.25" width="104.75" height="143.75" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0009" x="105" y="935.25" width="107.75" height="137" frameX="-43.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0010" x="213" y="935.25" width="109.5" height="136.75" frameX="-43" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0011" x="322.75" y="935.25" width="108.5" height="138.5" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0012" x="431.5" y="935.25" width="108.5" height="142" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0013" x="540.25" y="935.25" width="108.5" height="149.25" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0014" x="649" y="935.25" width="108.5" height="160.25" frameX="-45.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0015" x="757.75" y="935.25" width="108.25" height="179.25" frameX="-45.5" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0016" x="866.25" y="935.25" width="107.5" height="180" frameX="-46.25" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0017" x="974" y="935.25" width="126.25" height="180" frameX="-46.75" frameY="0" frameWidth="197.75" frameHeight="180"/>
+	<SubTexture name="attack0018" x="1100.5" y="935.25" width="197.75" height="180"/>
+	<SubTexture name="enter0000" x="1298.5" y="935.25" width="92" height="79" frameX="-140" frameY="-91" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0001" x="1390.75" y="935.25" width="92" height="79" frameX="-140" frameY="-91" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0002" x="1298.5" y="935.25" width="92" height="79" frameX="-140" frameY="-91" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0003" x="0" y="1115.5" width="92" height="79.5" frameX="-140" frameY="-90.5" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0004" x="92.25" y="1115.5" width="92" height="96.25" frameX="-140" frameY="-73.75" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0005" x="184.5" y="1115.5" width="92" height="104" frameX="-140" frameY="-65.75" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0006" x="276.75" y="1115.5" width="92" height="132.75" frameX="-140" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0007" x="369" y="1115.5" width="92" height="132.75" frameX="-140" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0008" x="461.25" y="1115.5" width="92" height="132.75" frameX="-140" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0009" x="553.5" y="1115.5" width="92" height="132.75" frameX="-140" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0010" x="645.75" y="1115.5" width="92" height="138.25" frameX="-140" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0011" x="738" y="1115.5" width="113.5" height="138" frameX="-118.5" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0012" x="851.75" y="1115.5" width="131.5" height="136" frameX="-100.5" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0013" x="983.5" y="1115.5" width="142" height="135.5" frameX="-90" frameY="-37" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0014" x="1125.75" y="1115.5" width="139.5" height="145.75" frameX="-85.5" frameY="-26.75" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0015" x="1265.5" y="1115.5" width="127.5" height="145" frameX="-81.75" frameY="-26.75" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0016" x="0" y="1261.5" width="117.25" height="154.25" frameX="-72" frameY="-15.5" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0017" x="117.5" y="1261.5" width="111.25" height="157.25" frameX="-55.25" frameY="-12.5" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0018" x="229" y="1261.5" width="130.25" height="157.5" frameX="-34.25" frameY="-12.25" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0019" x="359.5" y="1261.5" width="131.75" height="157.5" frameX="-12.25" frameY="-12.25" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0020" x="491.5" y="1261.5" width="144" height="159.5" frameX="0" frameY="-10.25" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0021" x="635.75" y="1261.5" width="133.5" height="169.75" frameX="-10.5" frameY="0" frameWidth="232" frameHeight="175.25"/>
+	<SubTexture name="enter0022" x="769.5" y="1261.5" width="114" height="150.75" frameX="-21.5" frameY="0" frameWidth="232" frameHeight="175.25"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["taken-apart", "purpleguy", [146, 113, 253]],
+		["retribution", "purple2", [146, 113, 253]],
+		["fear-forever", "pfred", [146, 113, 253]],
+		["everlasting", "trap", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+	
+	"difficulties": "Easy,Normal",
+	
+	"storyName": " ",
+	"weekBefore": "tutorial",
+	"weekName": "Main Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

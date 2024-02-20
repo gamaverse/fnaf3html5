@@ -1,0 +1,17 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="paperpeople2.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0.25" y="0.25" width="373.5" height="42.75" frameX="0" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0001" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-3.25" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0002" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-6.75" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0003" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-10.25" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0004" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-13.75" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0005" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-17" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0006" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-20.5" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0007" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-24" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0008" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-27.5" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0009" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-30.75" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0010" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-34.25" frameY="0" frameWidth="411" frameHeight="42.75"/>
+	<SubTexture name="idle0011" x="0.25" y="43.25" width="373.5" height="42.75" frameX="-37.75" frameY="0" frameWidth="411" frameHeight="42.75"/>
+</TextureAtlas>
